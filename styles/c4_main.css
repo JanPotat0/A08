@@ -22,6 +22,10 @@ blockquote {
 	color: var(--global-color-1);
 }
 
+ul li {
+	color: var(--global-color-1);
+}
+
 main {
 	clear: left;
 }
