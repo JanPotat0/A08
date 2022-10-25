@@ -28,4 +28,11 @@ main h3 {
 	text-indent: 30px;
 }
 
+main h3 a:hover {
+	font-style: italic;
+}
+
 /* the styles for the footer */
+p {
+	text-align: center;
+}
